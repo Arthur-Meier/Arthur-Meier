@@ -65,13 +65,6 @@ Mobile       Flutter, Dart, Riverpod, mobile-first product flows
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git badge" />
 </p>
 
-## GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Meier&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats for Arthur Meier" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Meier&layout=compact&hide_border=true&theme=transparent" alt="Top languages used by Arthur Meier" height="160" />
-</p>
-
 ## Hiring Context
 
 I am especially interested in backend and full-stack roles where architecture, API quality, and feature delivery all matter, especially international opportunities with relocation support.
