@@ -1,73 +1,77 @@
-<h1 align="center">Hi 👋, I'm Arthur Meier</h1>
-<h3 align="center">Fullstack Developer | Java, Spring Boot, React & Oracle</h3>
+<h1 align="center">Arthur Meier</h1>
 
 <p align="center">
-  Fullstack developer focused on building scalable, secure, and maintainable applications.
+  <strong>Backend-oriented Full-Stack Engineer building secure APIs, typed interfaces, and systems that stay maintainable under growth.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-meier/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Meier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  Current focus: Spring Boot services, TypeScript frontends, Flutter mobile flows, and production-minded application structure.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-meier/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn contact badge" />
   </a>
   <a href="mailto:Arthurcmeier@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Arthurcmeier%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact badge" />
+  </a>
+  <a href="https://github.com/Arthur-Meier?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repository%20Index-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository index badge" />
   </a>
 </p>
 
----
+> Backend-minded. Product-aware. Maintainability-first.
 
-## About Me
+## Engineering Profile
 
-- 💼 Fullstack Developer with experience in backend and frontend development
-- 🚀 Currently working on personal projects focused on web and mobile solutions
-- 🌱 Currently learning **Dart**
-- 💬 Ask me about **Java, Spring Boot, React, Vue, and Oracle**
-- 📫 Reach me at **Arthurcmeier@outlook.com**
-
----
+- I care about contracts, ownership boundaries, authentication, and persistence design before polishing surface detail.
+- I am comfortable spanning service layer, UI layer, and mobile product flows when the feature needs end-to-end execution.
+- I prefer architectures that stay readable: modular features, typed boundaries, pragmatic tests, and explicit failure states.
 
 ## Featured Projects
 
-- [Investment Portfolio Manager - Frontend](https://github.com/Arthur-Meier/investment-portfolio-manager-front)
-- [Investment Portfolio Manager - Backend](https://github.com/Arthur-Meier/investment-portfolio-manager-back)
-- [GymApp](https://github.com/Arthur-Meier/GymApp)
+### [Investment Portfolio Manager - Backend](https://github.com/Arthur-Meier/investment-portfolio-manager-back)
 
----
+What it proves: secure authentication, wallet ownership isolation, market provider orchestration, scheduled jobs, and history patterns in a Java + Spring Boot stack backed by PostgreSQL and MongoDB.
 
-## Tech Stack
+### [Investment Portfolio Manager - Frontend](https://github.com/Arthur-Meier/investment-portfolio-manager-front)
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
+What it proves: Vue 3 + TypeScript execution with layered app structure, typed service contracts, protected routes, and UI states designed for real product behavior.
+
+### [GymApp](https://github.com/Arthur-Meier/GymApp)
+
+What it proves: Flutter delivery with Riverpod state management, feature-first organization, onboarding flows, workout logic, progress tracking, and mobile product thinking.
+
+## Technical Vocabulary
+
+```text
+Backend      Java, Spring Boot, REST APIs, JWT auth, SQL, MongoDB
+Frontend     Vue 3, React, TypeScript, Vite, state management, UX states
+Mobile       Flutter, Dart, Riverpod, mobile-first product flows
+```
+
+## Stack Signals
+
+<p>
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot badge" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/Vue%203-111827?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue 3 badge" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
+  <img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter badge" />
+  <img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL badge" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB badge" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git badge" />
 </p>
 
----
-
-## GitHub Stats
+## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthur-meier&show_icons=true&locale=en" alt="Arthur Meier GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-meier&show_icons=true&locale=en&layout=compact" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Meier&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats for Arthur Meier" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Meier&layout=compact&hide_border=true&theme=transparent" alt="Top languages used by Arthur Meier" height="160" />
 </p>
+
+## Hiring Context
+
+I am especially interested in backend and full-stack roles where architecture, API quality, and feature delivery all matter, especially international opportunities with relocation support.
